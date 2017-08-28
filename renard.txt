@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Renard
-! Last changed: 2017-08-28 22:06:50
-! Expires: 4 days (update frequency)
+! Author: Renard
+! Last changed: 2017-08-28 22:15:36
 ! Homepage: https://github.com/renard/renard-ab-filters
 ! Licence: https://github.com/renard/renard-ab-filters/licence.md
 ! 
