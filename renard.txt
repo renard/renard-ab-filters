@@ -1,0 +1,22 @@
+[Adblock Plus 2.0]
+! Version: 201708261315
+! Title: Renard
+! Last modified: 26 Aug 2017 13:15 UTC
+! Expires: 4 days (update frequency)
+! Homepage: https://github.com/renard/renard-ab-filters
+! Licence: https://github.com/renard/renard-ab-filters/licence.md
+! 
+! Please report any unblocked adverts or problems
+! GitHub issues: https://github.com/renard/renard-ab-filters/issues
+! GitHub pull https://github.com/renard/renard-ab-filters/pulls
+! 
+! -----------------------General advert blocking filters-----------------------!
+
+!!! Flickr
+
+##.feed-ad-banner
+##.pro-upsell-banner
+##.ad-iframe-container
+##.ad-banner-control
+##.show-banner-ad
+##.ad-iframe-shim
