@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Renard
 ! Author: Renard
-! Last changed: 2017-08-28 22:15:36
+! Last changed: 2017-09-11 23:49:54
 ! Homepage: https://github.com/renard/renard-ab-filters
 ! Licence: https://github.com/renard/renard-ab-filters/licence.md
 ! 
@@ -19,3 +19,7 @@
 ##.ad-banner-control
 ##.show-banner-ad
 ##.ad-iframe-shim
+
+!!! Twitter
+##li.PromptbirdPrompt-streamItem
+##div.dashboard-right
